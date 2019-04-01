@@ -2,13 +2,14 @@
 
 * [About AlohaStudy](#about-alohastudy)
 * [Installation](#installation)
-* [Application design](#application-design)
-* [Development history](#development-history)
-
+* [Application Design](#application-design)
+* [Development History](#development-history)
+* [Contact Us](#contact-us)
 
 # About AlohaStudy
 
 AlohaStudy is a Meteor application designed to provide students a listing of hidden study spots. In this site, you will be provided a listing with ratings, hours, capacity, accessibility, and capabilities of each study spot. It will also include a feature allowing students to give real-time feedback if it's either used or not used with a timestamp. 
+
 
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
