@@ -50,10 +50,13 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 #### Page Mockup
 
  - Landing Page
+ <img src="mockups/homepage.png">
  - List Spots
  - Admin List Spots
+ <img src="mockups/spots.png">
  - Spot Info Page
  - Profile Edit Page
+ <img src="mockups/profile.png">
  - Add Spot
  - Edit/Delete Spot
  - Login/Logout/Sign up
