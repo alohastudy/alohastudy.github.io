@@ -30,12 +30,30 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
 
-## Application Design
+# Page Mockup
+  - Landing Page
+  - List Spots
+  - Admin List Spots
+  - Spot Info Page
+  - Profile Edit Page
+  - Add Spot
+  - Edit/Delete Spot
+  - Login/Logout/Sign up
+  
 
-## Development History
 
-## Contact Us
+# Beyond the Basics
+  - Allow users to create/edit/delete spots
+  - Allow users to create/edit/delete reviews
+  - Search for spots by keyword
+  - Filter spots by attributes (noisiness, indoors, air-conditioned)
 
+
+# Application Design
+
+# Development History
+
+# Contact Us
  * Isaac Lee: ilee72@hawaii.edu
  * David Liang: david947@hawaii.edu
  * Andrew Millard: millarda@hawaii.edu
