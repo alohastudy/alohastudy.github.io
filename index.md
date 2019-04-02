@@ -7,7 +7,7 @@
 * [Application Design](#application-design)
   * [Page Mockup](#page-mockup)
   * [Beyond the Basics](#beyond-the-basics)
-  * [Description of Application](#description-of-application:)
+  * [Description of Application:](#description-of-application:)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
