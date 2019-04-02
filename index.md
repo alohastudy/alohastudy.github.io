@@ -5,8 +5,8 @@
 * [Project Goals](#project-goals)
 * [Page Mockup](#page-mockup)
 * [Application Design](#application-design)
-  * [Page Mockup](#page-mockup)
-  * [Directory structure](#directory-structure)
+ * [Page Mockup](#page-mockup)
+ * [Beyond the Basics](#beyond-the-basics)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
@@ -40,23 +40,23 @@ W
 
 # Application Design
  
-## Page Mockup
-  - Landing Page
-  - List Spots
-  - Admin List Spots
-  - Spot Info Page
-  - Profile Edit Page
-  - Add Spot
-  - Edit/Delete Spot
-  - Login/Logout/Sign up
+  ### Page Mockup
+    - Landing Page
+    - List Spots
+    - Admin List Spots
+    - Spot Info Page
+    - Profile Edit Page
+    - Add Spot
+    - Edit/Delete Spot
+    - Login/Logout/Sign up
 
 We wish to have a landing page that would have tabs going to a 
 
-## Beyond the Basics
-  - Allow users to create/edit/delete spots
-  - Allow users to create/edit/delete reviews
-  - Search for spots by keyword
-  - Filter spots by attributes (noisiness, indoors, air-conditioned)
+  ### Beyond the Basics
+    - Allow users to create/edit/delete spots
+    - Allow users to create/edit/delete reviews
+    - Search for spots by keyword
+    - Filter spots by attributes (noisiness, indoors, air-conditioned)
 
 # Development History
 
