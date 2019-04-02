@@ -40,7 +40,7 @@ W
 
 # Application Design
  
-  ## Page Mockup
+   Page Mockup
     - Landing Page
     - List Spots
     - Admin List Spots
@@ -51,13 +51,14 @@ W
     - Login/Logout/Sign up
     - Button for saying you are at the spot along with how filled it is
 
-  ## Beyond the Basics
+   Beyond the Basics
     - Allow users to create/edit/delete spots
     - Allow users to create/edit/delete reviews
     - Search for spots by keyword
     - Filter spots by attributes (noisiness, indoors, air-conditioned)
     
- ## Description of Application   
+ Description of Application 
+ 
    We wish to have a landing page that would have tabs going to a different functions of our website. The Landing page would have tabs for signing up or logining. 
    
    For admins, they would have access to functionalities of the admin list of spots, adding spots, editing/deleting spots, and verifying users on a whitelist. For verified users, they would have access to the list of spots, add spots, edit spots, profile edit, and feedback. For unverified users, they must be approved by an admin. The unverified user would have access to the list of posts and an add spot which would be verified by an admin. 
