@@ -39,7 +39,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 W
 
 # Application Design
- 
+
    #### Page Mockup
     - Landing Page
     - List Spots
