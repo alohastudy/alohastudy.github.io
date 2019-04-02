@@ -36,8 +36,8 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## Contact Us
 
-Isaac Lee: ilee72@hawaii.edu
-David Liang: david947@hawaii.edu
-Andrew Millard: 
+ * Isaac Lee: ilee72@hawaii.edu
+ * David Liang: david947@hawaii.edu
+ * Andrew Millard: millarda@hawaii.edu
 
 
