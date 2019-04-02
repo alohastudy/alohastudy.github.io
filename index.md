@@ -40,7 +40,7 @@ W
 
 # Application Design
  
-   ### Page Mockup
+   Page Mockup
     - Landing Page
     - List Spots
     - Admin List Spots
@@ -51,13 +51,13 @@ W
     - Login/Logout/Sign up
     - Button for saying you are at the spot along with how filled it is
 
-   ### Beyond the Basics
+   Beyond the Basics
     - Allow users to create/edit/delete spots
     - Allow users to create/edit/delete reviews
     - Search for spots by keyword
     - Filter spots by attributes (noisiness, indoors, air-conditioned)
     
- Description of Application 
+ Description of Application: 
  
    We wish to have a landing page that would have tabs going to a different functions of our website. The Landing page would have tabs for signing up or logining. 
    
