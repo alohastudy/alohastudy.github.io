@@ -40,7 +40,7 @@ W
 
 # Application Design
  
-  #### Page Mockup
+  ## Page Mockup
     - Landing Page
     - List Spots
     - Admin List Spots
@@ -52,7 +52,7 @@ W
 
 We wish to have a landing page that would have tabs going to a 
 
-  #### Beyond the Basics
+  ## Beyond the Basics
     - Allow users to create/edit/delete spots
     - Allow users to create/edit/delete reviews
     - Search for spots by keyword
