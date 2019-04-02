@@ -7,6 +7,7 @@
 * [Application Design](#application-design)
   * [Page Mockup](#page-mockup)
   * [Beyond the Basics](#beyond-the-basics)
+  * [Description of Application](#description-of-application)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
@@ -36,27 +37,42 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
 
 # Project Goals
-W
-
-# Application Design
+ - People can create accounts as users
+ - Users can submit spots but they must be verified by admins
+ - Users can comment on posts
+ - Accounts can get verified so they can freely post spots
+ - Admins can delete comments and posts
+ - Filter function available for viewing certain posts
+ - Users have profiles that show spots they have made
  
-  ## Page Mockup
-    - Landing Page
-    - List Spots
-    - Admin List Spots
-    - Spot Info Page
-    - Profile Edit Page
-    - Add Spot
-    - Edit/Delete Spot
-    - Login/Logout/Sign up
+# Application Design
 
-We wish to have a landing page that would have tabs going to a 
+#### Page Mockup
 
-  ## Beyond the Basics
-    - Allow users to create/edit/delete spots
-    - Allow users to create/edit/delete reviews
-    - Search for spots by keyword
-    - Filter spots by attributes (noisiness, indoors, air-conditioned)
+ - Landing Page
+ - List Spots
+ - Admin List Spots
+ - Spot Info Page
+ - Profile Edit Page
+ - Add Spot
+ - Edit/Delete Spot
+ - Login/Logout/Sign up
+ - Button for saying you are at the spot along with how filled it is
+
+#### Beyond the Basics
+
+ - Allow users to create/edit/delete spots
+ - Allow users to create/edit/delete reviews
+ - Search for spots by keyword
+ - Filter spots by attributes (noisiness, indoors, air-conditioned)
+    
+## Description of Application
+ 
+   We wish to have a landing page that would have tabs going to a different functions of our website. The Landing page would have tabs for signing up or logining. 
+   
+   For admins, they would have access to functionalities of the admin list of spots, adding spots, editing/deleting spots, and verifying users on a whitelist. For verified users, they would have access to the list of spots, add spots, edit spots, profile edit, and feedback. For unverified users, they must be approved by an admin. The unverified user would have access to the list of posts and an add spot which would be verified by an admin. 
+   
+   Both the admin and verified user would have access to a button that would indicate how filled a study spot is from empty, partially filled, and filled. Verified and Admin users can provided reviews and feedback.
 
 # Development History
 
