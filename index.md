@@ -40,10 +40,10 @@ We wish to have a landing page that would have tabs going to a
 
 ## Contact Us
 
-Isaac Lee: ilee72@hawaii.edu
+ - Isaac Lee: ilee72@hawaii.edu
 
-David Liang: david947@hawaii.edu
+ - David Liang: david947@hawaii.edu
 
-Andrew Millard: millarda@hawaii.edu
+ - Andrew Millard: millarda@hawaii.edu
 
 
