@@ -40,22 +40,24 @@ W
 
 # Application Design
 
-   #### Page Mockup
-    - Landing Page
-    - List Spots
-    - Admin List Spots
-    - Spot Info Page
-    - Profile Edit Page
-    - Add Spot
-    - Edit/Delete Spot
-    - Login/Logout/Sign up
-    - Button for saying you are at the spot along with how filled it is
+#### Page Mockup
 
-   #### Beyond the Basics
-    - Allow users to create/edit/delete spots
-    - Allow users to create/edit/delete reviews
-    - Search for spots by keyword
-    - Filter spots by attributes (noisiness, indoors, air-conditioned)
+ - Landing Page
+ - List Spots
+ - Admin List Spots
+ - Spot Info Page
+ - Profile Edit Page
+ - Add Spot
+ - Edit/Delete Spot
+ - Login/Logout/Sign up
+ - Button for saying you are at the spot along with how filled it is
+
+#### Beyond the Basics
+
+ - Allow users to create/edit/delete spots
+ - Allow users to create/edit/delete reviews
+ - Search for spots by keyword
+ - Filter spots by attributes (noisiness, indoors, air-conditioned)
     
  ## Description of Application: 
  
