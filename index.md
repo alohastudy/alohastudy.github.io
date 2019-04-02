@@ -55,11 +55,13 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  - Admin List Spots
  <img src="mockups/spots.png">
  - Spot Info Page
+ <img src="mockups/spot_page.png">
  - Profile Edit Page
  <img src="mockups/profile.png">
  - Add Spot
  - Edit/Delete Spot
  - Login/Logout/Sign up
+ <img src="mockups/login.png">
  - Button for saying you are at the spot along with how filled it is
 
 #### Beyond the Basics
