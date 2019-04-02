@@ -5,8 +5,8 @@
 * [Project Goals](#project-goals)
 * [Page Mockup](#page-mockup)
 * [Application Design](#application-design)
- * [Page Mockup](#page-mockup)
- * [Beyond the Basics](#beyond-the-basics)
+  * [Page Mockup](#page-mockup)
+  * [Beyond the Basics](#beyond-the-basics)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
@@ -40,7 +40,7 @@ W
 
 # Application Design
  
-  ### Page Mockup
+  #### Page Mockup
     - Landing Page
     - List Spots
     - Admin List Spots
@@ -52,7 +52,7 @@ W
 
 We wish to have a landing page that would have tabs going to a 
 
-  ### Beyond the Basics
+  #### Beyond the Basics
     - Allow users to create/edit/delete spots
     - Allow users to create/edit/delete reviews
     - Search for spots by keyword
