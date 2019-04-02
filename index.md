@@ -7,6 +7,7 @@
 * [Application Design](#application-design)
   * [Page Mockup](#page-mockup)
   * [Beyond the Basics](#beyond-the-basics)
+  * [Description of Application](#description-of-application:)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
@@ -65,7 +66,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  - Search for spots by keyword
  - Filter spots by attributes (noisiness, indoors, air-conditioned)
     
-# Description of Application: 
+## Description of Application: 
  
    We wish to have a landing page that would have tabs going to a different functions of our website. The Landing page would have tabs for signing up or logining. 
    
