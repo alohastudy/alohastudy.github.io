@@ -36,13 +36,13 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
 
 # Project Goals
- -People can create accounts as users
- -Users can submit spots but they must be verified by admins
- -Users can comment on posts
- -Accounts can get verified so they can freely post spots
- -Admins can delete comments and posts
- -Filter function available for viewing certain posts
- -Users have profiles that show spots they have made
+ - People can create accounts as users
+ - Users can submit spots but they must be verified by admins
+ - Users can comment on posts
+ - Accounts can get verified so they can freely post spots
+ - Admins can delete comments and posts
+ - Filter function available for viewing certain posts
+ - Users have profiles that show spots they have made
  
 # Application Design
 
