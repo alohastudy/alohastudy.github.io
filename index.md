@@ -43,6 +43,8 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 
 # Beyond the Basics
+After implementing the basic functionality, here are ideas for more advanced features:
+
   - Allow users to create/edit/delete spots
   - Allow users to create/edit/delete reviews
   - Search for spots by keyword
