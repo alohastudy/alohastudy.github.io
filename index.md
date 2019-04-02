@@ -40,7 +40,7 @@ W
 
 # Application Design
  
-   Page Mockup
+   ### Page Mockup
     - Landing Page
     - List Spots
     - Admin List Spots
@@ -51,7 +51,7 @@ W
     - Login/Logout/Sign up
     - Button for saying you are at the spot along with how filled it is
 
-   Beyond the Basics
+   ### Beyond the Basics
     - Allow users to create/edit/delete spots
     - Allow users to create/edit/delete reviews
     - Search for spots by keyword
