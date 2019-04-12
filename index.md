@@ -47,16 +47,28 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
  - Landing Page
  <img src="mockups/landing.PNG">
+ This is the first page a new user will see. It contains some information about the site as well as how to use it. There is also some information on the site's creators.
+ 
+ 
  - List Spots
  <img src="mockups/listSpots.PNG">
+ This page displays all verified spots. It is intended to allow general users to browse spots that have been posted. From here they can see if a spot is noisy, has outlets or is indoors. There are also ratings displayed for each spot. Clicking the title of a spot will redirect the user to that spot's info page.
+ 
  - Admin List Spots
  <img src="mockups/adminListSpots.PNG">
+ This page builds off the List Spots page but instead shows all spots, including unverified ones. This page is intended to allow admins to view all spots and moderate them. For example it allows admins to navigate to unverified posts and consider verifying them.
+ 
  - Spot Info Page
  <img src="mockups/spotsInfo.PNG">
+ This page shows public information on a certain spot. If not verified then there will be a large red tag displaying as such. This page will eventually have a comment system built into it.
+ 
  - Add Spot
  <img src="mockups/addSpots.PNG">
+ This page allows a user to add a spot to the database. It currently doesn't work completely. It will have it so that in general posts will be initially unverified. A spot submitted by a verified user will be automatically verified.
+ 
  - Login/Logout/Sign up
  <img src="mockups/login.png">
+ This page is where users can login.
 
 
 # Project Goals
@@ -78,6 +90,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  - Allow users to create/edit/delete reviews
  - Search for spots by keyword
  - Filter spots by attributes (noisiness, indoors, air-conditioned)
+ - Banned users are restricted from viewing spot/leaving comments/uploading spots
     
 # Description of Application
  
