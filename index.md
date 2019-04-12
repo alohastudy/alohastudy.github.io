@@ -52,9 +52,9 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  - Admin List Spots
  <img src="mockups/adminListSpots.png">
  - Spot Info Page
- <img src="mockups/spotInfo.png">
+ <img src="mockups/spotsInfo.png">
  - Add Spot
- <img src="mockups/addSpot.png">
+ <img src="mockups/addSpots.png">
  - Login/Logout/Sign up
  <img src="mockups/login.png">
 
