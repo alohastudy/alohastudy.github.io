@@ -46,15 +46,15 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 #### Page Mockup
 
  - Landing Page
- <img src="mockups/landing.png">
+ <img src="mockups/landing.PNG">
  - List Spots
- <img src="mockups/listSpots.png">
+ <img src="mockups/listSpots.PNG">
  - Admin List Spots
- <img src="mockups/adminListSpots.png">
+ <img src="mockups/adminListSpots.PNG">
  - Spot Info Page
- <img src="mockups/spotsInfo.png">
+ <img src="mockups/spotsInfo.PNG">
  - Add Spot
- <img src="mockups/addSpots.png">
+ <img src="mockups/addSpots.PNG">
  - Login/Logout/Sign up
  <img src="mockups/login.png">
 
