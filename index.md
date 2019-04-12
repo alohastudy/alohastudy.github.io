@@ -45,28 +45,30 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 #### Page Mockup
 
- - Landing Page
+ - Landing Page -  http://alohastudy.meteorapp.com/#/
  <img src="mockups/landing.PNG">
  This is the first page a new user will see. It contains some information about the site as well as how to use it. There is also some information on the site's creators.
  
- 
- - List Spots
+ - List Spots - http://alohastudy.meteorapp.com/#/listSpots
  <img src="mockups/listSpots.PNG">
- This page displays all verified spots. It is intended to allow general users to browse spots that have been posted. From here they can see if a spot is noisy, has outlets or is indoors. There are also ratings displayed for each spot. Clicking the title of a spot will redirect the user to that spot's info page.
+ This page displays all verified spots. It is intended to allow general users to browse spots that have been posted. From here they can see if a spot is noisy, has outlets or is indoors. There are also ratings displayed for each spot. Clicking the title of a spot will redirect the user to that spot's info page. A banned user cannot visit this page. A sample banned user has the following credentials:
  
- - Admin List Spots
+ email: banned@foo.com
+ password: changeme
+ 
+ - Admin List Spots - http://alohastudy.meteorapp.com/#/adminSpots
  <img src="mockups/adminListSpots.PNG">
  This page builds off the List Spots page but instead shows all spots, including unverified ones. This page is intended to allow admins to view all spots and moderate them. For example it allows admins to navigate to unverified posts and consider verifying them.
  
- - Spot Info Page
+ - Spot Info Page - http://alohastudy.meteorapp.com/#/view/msAu33FngnCjMNcPv
  <img src="mockups/spotsInfo.PNG">
  This page shows public information on a certain spot. If not verified then there will be a large red tag displaying as such. This page will eventually have a comment system built into it.
  
- - Add Spot
+ - Add Spot - http://alohastudy.meteorapp.com/#/add
  <img src="mockups/addSpots.PNG">
  This page allows a user to add a spot to the database. It currently doesn't work completely. It will have it so that in general posts will be initially unverified. A spot submitted by a verified user will be automatically verified.
  
- - Login/Logout/Sign up
+ - Login/Logout/Sign up - http://alohastudy.meteorapp.com/#/signin
  <img src="mockups/login.png">
  This page is where users can login.
 
