@@ -1,7 +1,8 @@
-# Table of contents
+# Table of Contents
 
 * [About AlohaStudy](#about-alohastudy)
-* [Installation](#installation)
+* [User Guide] (#user-guide)
+  * [Installation](#installation)
 * [Project Goals](#project-goals)
 * [Page Mockup](#page-mockup)
 * [Application Design](#application-design)
@@ -17,7 +18,13 @@ AlohaStudy is a Meteor application designed to provide students a listing of hid
 
 This application will give students the access and convenience of knowing where and when to go to hidden study spots.
 
-# Installation
+# User Guide
+
+includes screenshots of deployed app
+
+
+
+## Installation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of AlohaStudy](https://github.com/alohastudy/alohastudy/archive/master.zip), or clone it using git.
@@ -36,17 +43,6 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
 
-# Project Goals
- - People can create accounts as users
- - Users can submit spots but they must be verified by admins
- - Users can comment on posts
- - Accounts can get verified so they can freely post spots
- - Admins can delete comments and posts
- - Filter function available for viewing certain posts
- - Users have profiles that show spots they have made
- 
-# Application Design
-
 #### Page Mockup
 
  - Landing Page
@@ -64,6 +60,20 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  <img src="mockups/login.png">
  - Button for saying you are at the spot along with how filled it is
 
+
+# Project Goals
+ - People can create accounts as users
+ - Users can submit spots but they must be verified by admins
+ - Users can comment on posts
+ - Accounts can get verified so they can freely post spots
+ - Admins can delete comments and posts
+ - Filter function available for viewing certain posts
+ - Users have profiles that show spots they have made
+ 
+# Application Design
+
+
+
 #### Beyond the Basics
 
  - Allow users to create/edit/delete spots
@@ -71,7 +81,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  - Search for spots by keyword
  - Filter spots by attributes (noisiness, indoors, air-conditioned)
     
-## Description of Application
+# Description of Application
  
    We wish to have a landing page that would have tabs going to a different functions of our website. The Landing page would have tabs for signing up or logining. 
    
