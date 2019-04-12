@@ -6,3 +6,9 @@ theme: jekyll-theme-leap-day
 
 gems:
 - jekyll-mentions
+
+github:
+  projectboard_url: https://github.com/alohastudy/alohastudy/projects/1
+  deployedapp_url: http://alohastudy.meteorapp.com/#/
+  sourcecode_url: https://github.com/alohastudy/alohastudy/
+  
