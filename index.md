@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [About AlohaStudy](#about-alohastudy)
-* [User Guide] (#user-guide)
+* [User Guide](#user-guide)
   * [Installation](#installation)
 * [Project Goals](#project-goals)
 * [Page Mockup](#page-mockup)
