@@ -4,12 +4,11 @@
 * [User Guide](#user-guide)
   * [Installation](#installation)
 * [Project Goals](#project-goals)
-* [Page Mockup](#page-mockup)
 * [Application Design](#application-design)
-  * [Page Mockup](#page-mockup)
   * [Beyond the Basics](#beyond-the-basics)
   * [Description of Application](#description-of-application)
 * [Development History](#development-history)
+  * [Milestone 1](#milestone-1)
 * [Contact Us](#contact-us)
 
 # About AlohaStudy
@@ -19,31 +18,6 @@ AlohaStudy is a Meteor application designed to provide students a listing of hid
 This application will give students the access and convenience of knowing where and when to go to hidden study spots.
 
 # User Guide
-
-includes screenshots of deployed app
-
-
-
-## Installation
-First, [install Meteor](https://www.meteor.com/install).
-
-Second, [download a copy of AlohaStudy](https://github.com/alohastudy/alohastudy/archive/master.zip), or clone it using git.
-
-Third, cd into the app/ directory and install libraries with:
-
-```
-$ meteor npm install
-```
-
-Fourth, run the system with:
-
-```
-$ meteor npm run start
-```
-
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). From here you can make an account or login with a pre-existing one. 
-
-#### Page Mockup
 
  - Landing Page -  <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
  <img src="mockups/landing.PNG">
@@ -69,6 +43,26 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  <img src="mockups/login.png">
  This page is where users can login.
 
+
+
+## Installation
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of AlohaStudy](https://github.com/alohastudy/alohastudy/archive/master.zip), or clone it using git.
+
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). From here you can make an account or login with a pre-existing one. 
 
 # Project Goals
  - People can create accounts as users
