@@ -75,7 +75,13 @@ If all goes well, the application will appear at [http://localhost:3000](http://
  
 # Application Design
 
+We designed the application using a common web app template. We have a folder for config files and one for app files.
 
+In the app files things are further organized. For example there are folders for things to be loaded by the client, things to be loaded by the server and thing to be loaded by both. The components, pages and layout folders found in the ui helped organize the different React components we would use during the project.
+
+Components involved different pieces of code that may be called frequently by other components or pages. Pages represented the information that separated different pages from each other. This would include almost everything except the navbar and footer. The layout contained only the App.jsx file which put all the pages together and organized the backend of visiting a page.
+
+We used Semantic-UI React and JavaScript as well as html and css to create the app. ESLint was used to help error check the code and keep our code up to standard. These standards helped keep the code readable and efficient.
 
 #### Beyond the Basics
 
