@@ -41,7 +41,7 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). From here you can make an account or login with a pre-existing one. 
 
 #### Page Mockup
 
@@ -100,6 +100,19 @@ If all goes well, the application will appear at [http://localhost:3000](http://
    Both the admin and verified user would have access to a button that would indicate how filled a study spot is from empty, partially filled, and filled. Verified and Admin users can provided reviews and feedback.
 
 # Development History
+
+## Milestone 1
+
+We began by drafting notes on a shared Google Drive. From here we designed our issues that we would use for the project. We then began creating all the logistical items needed to properly coordinate and plan. This included creating an organization, repositories, project board and milestone for milestone 1 and issues.
+
+We then created a basic version of this page you are viewing now as well as a basic version of our actual project. It was reviewed by our professor Philip Johnson. From his feedback we made changes to the page and project.
+<img src="images/m1milestone.PNG">
+
+We then developed about half of the issues was had planned to complete by the end of the semester. This totalled at 11 issues. It was cleaned up to become presentable for milestone 1.
+<img src="images/m1board.PNG">
+
+We utilized issue driven development. This includes having each issue completed on its own branch for the most part. This can be seen in the following network graph.
+<img src="images/m1network.PNG">
 
 # Contact Us
 
