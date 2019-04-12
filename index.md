@@ -108,7 +108,7 @@ We began by drafting notes on a shared Google Drive. From here we designed our i
 We then created a basic version of this page you are viewing now as well as a basic version of our actual project. It was reviewed by our professor Philip Johnson. From his feedback we made changes to the page and project.
 <img src="images/m1milestone.PNG">
 
-We then developed about half of the issues was had planned to complete by the end of the semester. This totalled at 11 issues. It was cleaned up to become presentable for milestone 1.
+We then developed about half of the issues we had planned to complete by the end of the semester. This totalled at 11 issues. It was cleaned up to become presentable for milestone 1.
 <img src="images/m1board.PNG">
 
 We utilized issue driven development. This includes having each issue completed on its own branch for the most part. This can be seen in the following network graph.
