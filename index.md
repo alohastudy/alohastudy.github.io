@@ -24,7 +24,7 @@ includes screenshots of deployed app
 
 
 
-### Installation
+# Installation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of AlohaStudy](https://github.com/alohastudy/alohastudy/archive/master.zip), or clone it using git.
