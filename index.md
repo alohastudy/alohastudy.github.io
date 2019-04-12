@@ -24,7 +24,7 @@ includes screenshots of deployed app
 
 
 
-# Installation
+## Installation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of AlohaStudy](https://github.com/alohastudy/alohastudy/archive/master.zip), or clone it using git.
@@ -46,19 +46,17 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 #### Page Mockup
 
  - Landing Page
- <img src="mockups/homepage.png">
+ <img src="mockups/landing.png">
  - List Spots
+ <img src="mockups/listSpots.png">
  - Admin List Spots
- <img src="mockups/spots.png">
+ <img src="mockups/adminListSpots.png">
  - Spot Info Page
- <img src="mockups/spot_page.png">
- - Profile Edit Page
- <img src="mockups/profile.png">
+ <img src="mockups/spotInfo.png">
  - Add Spot
- - Edit/Delete Spot
+ <img src="mockups/addSpot.png">
  - Login/Logout/Sign up
  <img src="mockups/login.png">
- - Button for saying you are at the spot along with how filled it is
 
 
 # Project Goals
