@@ -32,6 +32,7 @@ This application will give students the access and convenience of knowing where 
  This page builds off the List Spots page but instead shows all spots, including unverified ones. This page is intended to allow admins to view all spots and moderate them. For example it allows admins to navigate to unverified posts and consider verifying them. Admins can edit any spots on this page
  
  - Profile Page - <a href='http://alohastudy.meteorapp.com/#/profile/MyProfile'>Link</a>
+ <img src="mockups/profile.PNG">
  This page displays the profile page of the currently logged in user. If a valid id is given in the url field then it will instead display the profile page of the user with that id. The information on this page contains the user's name, status and bio. It also shows a list of all their spots. Admins and users are able to edit these spots with the usual restrictions. Navigating to this page when not logged in will currently error. This is to be fixed.
  
  - Spot Info Page - <a href='http://alohastudy.meteorapp.com/#/view/msAu33FngnCjMNcPv'>Link</a>
