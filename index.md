@@ -52,7 +52,7 @@ This application will give students the access and convenience of knowing where 
  This page is where users can login.
  
  - view profile - <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
- <img src="mockups/viewProfile.png">
+ <img src="mockups/viewProfile.PNG">
  This allows a user to view their own profile
 
 
