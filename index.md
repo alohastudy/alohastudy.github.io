@@ -25,24 +25,34 @@ This application will give students the access and convenience of knowing where 
  
  - List Spots - <a href='http://alohastudy.meteorapp.com/#/listSpots'>Link</a>
  <img src="mockups/listSpots.PNG">
- This page displays all verified spots. It is intended to allow general users to browse spots that have been posted. From here they can see if a spot is noisy, has outlets or is indoors. There are also ratings displayed for each spot. Clicking the title of a spot will redirect the user to that spot's info page. A banned user cannot visit this page.
+ This page displays all verified spots. It is intended to allow general users to browse spots that have been posted. From here they can see if a spot is noisy, has outlets or is indoors. There are also ratings displayed for each spot. Clicking the title of a spot will redirect the user to that spot's info page. A banned user cannot visit this page. A user can edit their own spots from this page. An admin can edit any visible spots from this page.
  
  - Admin List Spots - <a href='http://alohastudy.meteorapp.com/#/adminSpots'>Link</a>
  <img src="mockups/adminListSpots.PNG">
- This page builds off the List Spots page but instead shows all spots, including unverified ones. This page is intended to allow admins to view all spots and moderate them. For example it allows admins to navigate to unverified posts and consider verifying them.
+ This page builds off the List Spots page but instead shows all spots, including unverified ones. This page is intended to allow admins to view all spots and moderate them. For example it allows admins to navigate to unverified posts and consider verifying them. Admins can edit any spots on this page
+ 
+ - Profile Page - <a href='http://alohastudy.meteorapp.com/#/profile/MyProfile'>Link</a>
+ This page displays the profile page of the currently logged in user. If a valid id is given in the url field then it will instead display the profile page of the user with that id. The information on this page contains the user's name, status and bio. It also shows a list of all their spots. Admins and users are able to edit these spots with the usual restrictions. Navigating to this page when not logged in will currently error. This is to be fixed.
  
  - Spot Info Page - <a href='http://alohastudy.meteorapp.com/#/view/msAu33FngnCjMNcPv'>Link</a>
  <img src="mockups/spotsInfo.PNG">
- This page shows public information on a certain spot. If not verified then there will be a large red tag displaying as such. This page will eventually have a comment system built into it.
+ This page shows public information on a certain spot. If not verified then there will be a large red tag displaying as such. This spot also shows the name of the spot creator and displays their status and profile picture. This page will eventually have a comment system built into it.
  
  - Add Spot - <a href='http://alohastudy.meteorapp.com/#/add'>Link</a>
  <img src="mockups/addSpots.PNG">
- This page allows a user to add a spot to the database. It currently doesn't work completely. It will have it so that in general posts will be initially unverified. A spot submitted by a verified user will be automatically verified.
+ This page allows a user to add a spot to the database. It will have it so that in general posts will be initially unverified. A spot submitted by a verified user will be automatically verified.
+ 
+ - Edit Spot - <a href='http://alohastudy.meteorapp.com/#/edit/id'>Link</a>
+ <img src="mockups/editSpots.PNG">
+ This page allows a user to edit the spot. The form will initially be filled out with the data that the spot currently has. Clicking submit will update the spot with the new information that has been put in the form.
  
  - Login/Logout/Sign up - <a href='http://alohastudy.meteorapp.com/#/signin'>Link</a>
  <img src="mockups/login.png">
  This page is where users can login.
-
+ 
+ - view profile - <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
+ <img src="mockups/viewProfile.png">
+ This allows a user to view their own profile
 
 
 ## Installation
@@ -119,7 +129,7 @@ We utilized issue driven development. This includes having each issue completed 
 
 ## Milestone 2
 
-Milestone 2 adds the ability for users to interact with the databases. This is specifically with the additional of add/edit spot pages and profile pages. A user can now add a spot and then edit any of their own spots. Admins are given the ability to edit anyone's spot. Profiles were added as a database item separate from the accounts. This is to distance the accessibility of a biography page from sensitive login information. Links to the creator of a spot appear on each spot in the spot list page as well as on the spot's info page. A user can view their own profile page by clicking on their username in the top right and clicking "view profile". This will direct them to the url "http://localhost:3000/#/profile/myProfile". This is useful since it allows an easy way for any user to view their own profile without knowing their long generated profile url. An example of a long generated url could be "http://localhost:3000/#/profile/c4Qc3aSSAR4CALC5J".
+Milestone 2 adds the ability for users to interact with the databases. This is specifically with the additional of add/edit spot pages and profile pages. A user can now add a spot and then edit any of their own spots. Admins are given the ability to edit anyone's spot. Profiles were added as a database item separate from the accounts. This is to distance the accessibility of a biography page from sensitive login information. Links to the creator of a spot appear on each spot in the spot list page. A user can view their own profile page by clicking on their username in the top right and clicking "view profile". This will direct them to the url "http://localhost:3000/#/profile/myProfile". This is useful since it allows an easy way for any user to view their own profile without knowing their long generated profile url. An example of a long generated url could be "http://localhost:3000/#/profile/c4Qc3aSSAR4CALC5J".
 
 <img src="images/m2milestone.PNG">
 
