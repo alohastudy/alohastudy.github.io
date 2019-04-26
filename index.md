@@ -119,17 +119,15 @@ We utilized issue driven development. This includes having each issue completed 
 
 ## Milestone 2
 
-We began by drafting notes on a shared Google Drive. From here we designed our issues that we would use for the project. We then began creating all the logistical items needed to properly coordinate and plan. This included creating an organization, repositories, project board and milestone for milestone 1 and issues.
-
-We then created a basic version of this page you are viewing now as well as a basic version of our actual project. It was reviewed by our professor Philip Johnson. From his feedback we made changes to the page and project.
+Milestone 2 adds the ability for users to interact with the databases. This is specifically with the additional of add/edit spot pages and profile pages. A user can now add a spot and then edit any of their own spots. Admins are given the ability to edit anyone's spot. Profiles were added as a database item separate from the accounts. This is to distance the accessibility of a biography page from sensitive login information. Links to the creator of a spot appear on each spot in the spot list page as well as on the spot's info page. A user can view their own profile page by clicking on their username in the top right and clicking "view profile". This will direct them to the url "http://localhost:3000/#/profile/myProfile". This is useful since it allows an easy way for any user to view their own profile without knowing their long generated profile url. An example of a long generated url could be "http://localhost:3000/#/profile/c4Qc3aSSAR4CALC5J".
 
 <img src="images/m2milestone.PNG">
 
-We then developed about half of the issues we had planned to complete by the end of the semester. This totalled at 5 issues. It was cleaned up to become presentable for milestone 1.
+We then developed about half of the issues we had planned to complete by the end of the semester. This totalled at 5 issues. While working we found that some issues were very closely related. This lead us to combine issues into more sensible formats. It was cleaned up to become presentable for milestone 2.
 
 <img src="images/m2board.PNG">
 
-We utilized issue driven development. This includes having each issue completed on its own branch for the most part. This can be seen in the following network graph.
+We utilized continued practicing issue driven development. This can be seen in the following network graph.
 
 <img src="images/m2network.PNG">
 
