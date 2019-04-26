@@ -117,6 +117,23 @@ We utilized issue driven development. This includes having each issue completed 
 
 <img src="images/m1network.PNG">
 
+## Milestone 2
+
+We began by drafting notes on a shared Google Drive. From here we designed our issues that we would use for the project. We then began creating all the logistical items needed to properly coordinate and plan. This included creating an organization, repositories, project board and milestone for milestone 1 and issues.
+
+We then created a basic version of this page you are viewing now as well as a basic version of our actual project. It was reviewed by our professor Philip Johnson. From his feedback we made changes to the page and project.
+
+<img src="images/m2milestone.PNG">
+
+We then developed about half of the issues we had planned to complete by the end of the semester. This totalled at 5 issues. It was cleaned up to become presentable for milestone 1.
+
+<img src="images/m2board.PNG">
+
+We utilized issue driven development. This includes having each issue completed on its own branch for the most part. This can be seen in the following network graph.
+
+<img src="images/m2network.PNG">
+
+
 # Contact Us
 
  - Isaac Lee: ilee72@hawaii.edu
