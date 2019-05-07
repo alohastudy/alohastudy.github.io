@@ -23,35 +23,35 @@ This application will give students the access and convenience of knowing where 
 # User Guide
 
  - Landing Page -  <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
- <img src="mockups/landing.PNG">
+ <img src="mockups/landing_new.PNG">
  This is the first page a new user will see. It contains some information about the site as well as how to use it. There is also some information on the site's creators.  The "Start Studying!" button redirects the user to the signup page. The Hot Spots feed displays the top three ranked spots on the website. 
  
  - List Spots - <a href='http://alohastudy.meteorapp.com/#/listSpots'>Link</a>
- <img src="mockups/listSpots.PNG">
+ <img src="mockups/listSpots_new.PNG">
  This page displays all verified spots. It is intended to allow general users to browse spots that have been posted. From here they can see if a spot is noisy, has outlets or is indoors. There are also ratings displayed for each spot. Clicking the title of a spot will redirect the user to that spot's info page. A banned user cannot visit this page. A user can edit their own spots from this page. An admin can edit any visible spots from this page.
  
  - Admin List Spots - <a href='http://alohastudy.meteorapp.com/#/adminSpots'>Link</a>
- <img src="mockups/adminListSpots.PNG">
+ <img src="mockups/adminListSpots_new.PNG">
  This page builds off the List Spots page but instead shows all spots, including unverified ones. This page is intended to allow admins to view all spots and moderate them. For example it allows admins to navigate to unverified posts and consider verifying them. Admins can edit any spots on this page
  
-  - User List - <a href='http://alohastudy.meteorapp.com/#/adminSpots'>Link</a>
- <img src="mockups/adminListSpots.PNG">
+  - User List - <a href='http://alohastudy.meteorapp.com/#/adminList'>Link</a>
+ <img src="mockups/userList.PNG">
   This page is only visible to the administrator and displays all registered users. It is intended to allow admins to quickly access information on who is registered on the website. Each card displays basic info including name, email, picture, and account status. Clicking on a users card will redirect to the users profile page.  
  
  - Profile Page - <a href='http://alohastudy.meteorapp.com/#/profile/MyProfile'>Link</a>
- <img src="mockups/profile.PNG">
+ <img src="mockups/profile_new.PNG">
  This page displays the profile page of the currently logged in user. If a valid id is given in the url field then it will instead display the profile page of the user with that id. The information on this page contains the user's name, status and bio. It also shows a list of all their spots. Admins and users are able to edit these spots with the usual restrictions. Navigating to this page when not logged in will currently error. This is to be fixed.
  
  - Spot Info Page - <a href='http://alohastudy.meteorapp.com/#/view/msAu33FngnCjMNcPv'>Link</a>
- <img src="mockups/spotsInfo.PNG">
+ <img src="mockups/spotsInfo_new.PNG">
  This page shows public information on a certain spot. If not verified then there will be a large red tag displaying as such. This spot also shows the name of the spot creator and displays their status and profile picture. This page will eventually have a comment system built into it.
  
  - Add Spot - <a href='http://alohastudy.meteorapp.com/#/add'>Link</a>
- <img src="mockups/addSpots.PNG">
+ <img src="mockups/addSpots_new.PNG">
  This page allows a user to add a spot to the database. It will have it so that in general posts will be initially unverified. A spot submitted by a verified user will be automatically verified.
  
  - Edit Spot - <a href='http://alohastudy.meteorapp.com/#/edit/id'>Link</a>
- <img src="mockups/editSpots.PNG">
+ <img src="mockups/editSpots_new.PNG">
  This page allows a user to edit the spot. The form will initially be filled out with the data that the spot currently has. Clicking submit will update the spot with the new information that has been put in the form.
  
  - Login/Logout/Sign up - <a href='http://alohastudy.meteorapp.com/#/signin'>Link</a>
@@ -153,9 +153,20 @@ We utilized continued practicing issue driven development. This can be seen in t
 
 ## Milestone 3
 
-Milestone 3 adds many new enhancements and functionalities to our site. We improved the layout of our landing page by vertically condensing its contents and implemented a "hot spots" feed that displays the top 3 ranked spots via dynamic data. In our List Spots page, we grant administrators or spot owners the ability to delete spots. Within each spot's info page is a newly implemented comment and rating system that allows any user to submit a timestamped comment along with a rating of the spot. This rating data is averaged and displayed for each spot below. The new User List page displays all registered users in the database along with quick access information on their status (admin/verified/user/banned) as well as links to their profiles.  
+Milestone 3 adds many new enhancements and functionalities to our site. We improved the layout of our landing page by vertically condensing its contents and implemented a "hot spots" feed that displays the top 3 ranked spots via dynamic data. In our List Spots page, we grant administrators or spot owners the ability to delete spots. Within each spot's info page is a newly implemented comment and rating system that allows any user to submit a timestamped comment along with a rating of the spot. This rating data is averaged and displayed for each spot below. The new User List page displays all registered users in the database along with quick access information on their status (admin/verified/user/banned) as well as links to their profiles. The image below shows the issues that we resolved in this milestone.
+
+<img src="images/m3milestone.PNG">
+
+We successfully completed every issue that we created for this milestone. 
+
+<img src="images/m3board.PNG">
+
+We utilized continued practicing issue driven development. This can be seen in the following network graph.
+
+<img src="images/m3network.PNG">
 
 # Community Feedback
+
 
 
 # Contact Us
