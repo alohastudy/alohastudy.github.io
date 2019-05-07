@@ -55,7 +55,7 @@ This application will give students the access and convenience of knowing where 
  This page allows a user to edit the spot. The form will initially be filled out with the data that the spot currently has. Clicking submit will update the spot with the new information that has been put in the form.
  
  - Login/Logout/Sign up - <a href='http://alohastudy.meteorapp.com/#/signin'>Link</a>
- <img src="mockups/login.png">
+ <img src="mockups/login_new.png">
  This page is where users can login.
  
  - view profile - <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
