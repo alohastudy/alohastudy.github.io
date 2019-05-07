@@ -23,7 +23,7 @@ This application will give students the access and convenience of knowing where 
 # User Guide
 
  - Landing Page -  <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
- <img src="mockups/landing_new.PNG">
+ <img src="mockups/landing_new.png">
  This is the first page a new user will see. It contains some information about the site as well as how to use it. There is also some information on the site's creators.  The "Start Studying!" button redirects the user to the signup page. The Hot Spots feed displays the top three ranked spots on the website. 
  
  - List Spots - <a href='http://alohastudy.meteorapp.com/#/listSpots'>Link</a>
@@ -166,7 +166,17 @@ We utilized continued practicing issue driven development. This can be seen in t
 <img src="images/m3network.png">
 
 # Community Feedback
+We demoed our website to five UH Manoa students who shall remain anonymous. They each spent a few minutes navgating around our website and exploring the different features our site has to offer. We then asked each of them to answer a questionnaire based on their experience. Their feedback is shown below. 
 
+wuestions
+<img src="images/m3board.png">
+
+Here are specific features they liked
+
+<img src="images/m3board.png">
+
+Rating
+<img src="images/m3board.png">
 
 
 # Contact Us
