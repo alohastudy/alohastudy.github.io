@@ -169,14 +169,22 @@ We utilized continued practicing issue driven development. This can be seen in t
 We demoed our website to five UH Manoa students who shall remain anonymous. They each spent a few minutes navgating around our website and exploring the different features our site has to offer. We then asked each of them to answer a questionnaire based on their experience. Their feedback is shown below. 
 
 wuestions
-<img src="images/m3board.png">
+<img src="images/often.png">
 
-Here are specific features they liked
+<img src="images/attribute.png">
 
-<img src="images/m3board.png">
 
-Rating
-<img src="images/m3board.png">
+Here are specific features they liked about our website as well as what they hope to be added in the future. These are things that we take into consideration if we continue our project. 
+
+<img src="images/like.png">
+
+<img src="images/features.png">
+
+They gave an overall good review of our website. 
+
+<img src="images/recommend.png">
+
+<img src="images/rate.png">
 
 
 # Contact Us
