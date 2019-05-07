@@ -185,6 +185,6 @@ Rating
 
  - David Liang: david947@hawaii.edu
 
- - Andrew Millard: millarda@hawaii.edu
+ - Andrew Millard: millarda@hawaii.edu  
 
 
