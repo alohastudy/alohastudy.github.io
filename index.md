@@ -9,6 +9,9 @@
   * [Description of Application](#description-of-application)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
+* [Community Feedback](#community-feedback)
 * [Contact Us](#contact-us)
 
 # About AlohaStudy
@@ -21,7 +24,7 @@ This application will give students the access and convenience of knowing where 
 
  - Landing Page -  <a href='http://alohastudy.meteorapp.com/#/'>Link</a>
  <img src="mockups/landing.PNG">
- This is the first page a new user will see. It contains some information about the site as well as how to use it. There is also some information on the site's creators.  The "Start Studying!" button redirects the user to the signup page. The Hot Spots feed displays the top three ranked spots on the website. Clicking the spot will redirect to its info page. 
+ This is the first page a new user will see. It contains some information about the site as well as how to use it. There is also some information on the site's creators.  The "Start Studying!" button redirects the user to the signup page. The Hot Spots feed displays the top three ranked spots on the website. 
  
  - List Spots - <a href='http://alohastudy.meteorapp.com/#/listSpots'>Link</a>
  <img src="mockups/listSpots.PNG">
@@ -151,6 +154,9 @@ We utilized continued practicing issue driven development. This can be seen in t
 ## Milestone 3
 
 Milestone 3 adds many new enhancements and functionalities to our site. We improved the layout of our landing page by vertically condensing its contents and implemented a "hot spots" feed that displays the top 3 ranked spots via dynamic data. In our List Spots page, we grant administrators or spot owners the ability to delete spots. Within each spot's info page is a newly implemented comment and rating system that allows any user to submit a timestamped comment along with a rating of the spot. This rating data is averaged and displayed for each spot below. The new User List page displays all registered users in the database along with quick access information on their status (admin/verified/user/banned) as well as links to their profiles.  
+
+# Community Feedback
+
 
 # Contact Us
 
