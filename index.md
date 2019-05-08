@@ -168,7 +168,7 @@ We utilized continued practicing issue driven development. This can be seen in t
 # Community Feedback
 We demoed our website to five UH Manoa students who shall remain anonymous. They each spent a few minutes navgating around our website and exploring the different features our site has to offer. We then asked each of them to answer a questionnaire based on their experience. Their feedback is shown below. 
 
-wuestions
+questions
 <img src="images/often.png">
 
 <img src="images/attribute.png">
