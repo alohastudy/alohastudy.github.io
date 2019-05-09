@@ -189,10 +189,8 @@ They gave an overall good review of our website.
 
 # The Developers
 
- - [Isaac Lee](ilee72.github.io)
+ -  <a href='ilee72.github.io'>Isaac Lee</a>
 
- - [David Liang](davidvliang.github.io)
+ -  <a href='davidvliang.github.io'>David Liang</a>
 
- - [Andrew Millard](millarda.github.io)  
-
-
+ -  <a href='millarda.github.io'>Andrew Millard</a>
