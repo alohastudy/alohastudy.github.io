@@ -187,12 +187,12 @@ They gave an overall good review of our website.
 <img src="images/rate.png">
 
 
-# Contact Us
+# The Developers
 
- - Isaac Lee: ilee72@hawaii.edu
+ - [Isaac Lee](ilee72.github.io)
 
- - David Liang: david947@hawaii.edu
+ - [David Liang](davidvliang.github.io)
 
- - Andrew Millard: millarda@hawaii.edu  
+ - [Andrew Millard](millarda.github.io)  
 
 
